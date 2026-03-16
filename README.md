@@ -34,7 +34,7 @@ notes-api/
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone https://github.com/твой-username/notes-api.git
+git clone https://github.com/jormun-dev/notes-api.git
 cd notes-api
 ```
 
